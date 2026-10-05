@@ -1,0 +1,7 @@
+{
+  "name": "CampusAttend",
+  "description": "A comprehensive college attendance management platform with Admin, Staff, and Student roles, session tracking, analytics, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
